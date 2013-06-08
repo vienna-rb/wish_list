@@ -7,17 +7,31 @@ This is a place to collect ideas for talks and other wishes.
 Talks
 =====
 
- * Introduction to Maglev http://maglev.github.io/
- * RubyMotion http://www.rubymotion.com/
- * Elixier - It's Erlang, but looks a bit like Ruby http://elixir-lang.org/
- * Ruby metaprogramming magic
+ * Introduction to [Maglev](http://maglev.github.io/)
+ * [RubyMotion](http://www.rubymotion.com/) - build iOS and OS X apps with Ruby!
+ * [Elixir](http://elixir-lang.org/) - It's [Erlang](http://www.erlang.org), but looks a bit like Ruby
+ * Ruby metaprogramming magic - It’s all about `self`
  * Markdown and Ruby, how to deal with them together.
+ * Ruby Off Rails - [Sinatra](http://www.sinatrarb.com), [Cuba](http://cuba.is), [Rack](http://rack.github.io)
+ * Lean web development - Building web apps with fast and small tools
+ * Objective-C vs. Ruby - Totally different syntax but very similar semantics
+ * Getting the most out of Minitest, Ruby's built in testing famework
+ * Building custom Rack middleware
+ * Tips and tricks for working with text and files in Ruby
+ * Building static sites with Jekyll/Octopress or Middleman
+ * Using [Redis](http://redis.io) with Ruby - Also, [Ohm](https://github.com/soveran/ohm)
+ * How do I build DSLs with yield and instance_eval
+ * A Simple Tour of the Ruby MRI Source Code
+ * [Rubinius](http://rubini.us) - A Ruby implementation written with Ruby!
+ * Documenting Ruby projects - [RDoc](http://rdoc.rubyforge.org), [YARD](http://yardoc.org)
+ * Best practices building an HTTP API wrapper with Ruby
+ * [Shoes!](http://shoesrb.com) The easiest little GUI toolkit, for Ruby.
 
 
 Ideas
 =====
 
- * at the beginning of the meetup present a "Gem of the Month" in 5 minutes.
+ * At the beginning of the meetup present a "Gem of the Month" in 5 minutes.
 
 
 Contributing
