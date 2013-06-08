@@ -12,13 +12,13 @@ Talks
  * [Elixir](http://elixir-lang.org/) - It's [Erlang](http://www.erlang.org), but looks a bit like Ruby
  * Ruby metaprogramming magic - It’s all about `self`
  * Markdown and Ruby, how to deal with them together.
- * Ruby Off Rails - [Sinatra](http://www.sinatrarb.com), [Cuba](http://cuba.is), [Rack](http://rack.github.io)
+ * Ruby Off Rails - [Sinatra](http://www.sinatrarb.com), [Cuba](http://cuba.is), [Rack](http://rack.github.io) ([Mikael](https://github.com/kmikael/))
  * Lean web development - Building web apps with fast and small tools
- * Objective-C vs. Ruby - Totally different syntax but very similar semantics
+ * Objective-C vs. Ruby - Totally different syntax but very similar semantics ([Mikael](https://github.com/kmikael/))
  * Getting the most out of Minitest, Ruby's built in testing famework
- * Building custom Rack middleware
+ * Building custom Rack middleware ([Mikael](https://github.com/kmikael/))
  * Tips and tricks for working with text and files in Ruby
- * Building static sites with Jekyll/Octopress or Middleman
+ * Building static sites with Jekyll/Octopress or Middleman ([Mikael](https://github.com/kmikael/))
  * Using [Redis](http://redis.io) with Ruby - Also, [Ohm](https://github.com/soveran/ohm)
  * How do I build DSLs with yield and instance_eval
  * A Simple Tour of the Ruby MRI Source Code
