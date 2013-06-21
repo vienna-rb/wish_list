@@ -34,6 +34,11 @@ Ideas
  * At the beginning of the meetup present a "Gem of the Month" in 5 minutes.
 
 
+Tshirts
+=======
+* the vienna.js guys are ahead of us! (https://twitter.com/viennajs/status/347999765738426368) :P
+* open a repo where we can work on the layout together
+
 Contributing
 ==========
 
